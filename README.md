@@ -1,2 +1,2 @@
-# Crawl paper list from the chinese journal website
+Crawl paper list from chinese journal website
 use python and jupyter 
